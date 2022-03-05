@@ -1,0 +1,6 @@
+C:\Users\ferna\IdeaProjects\ExercGen\src\main\kotlin\Quest2.kt
+C:\Users\ferna\IdeaProjects\ExercGen\src\main\kotlin\Quest4.kt
+C:\Users\ferna\IdeaProjects\ExercGen\src\main\kotlin\Quest3.kt
+C:\Users\ferna\IdeaProjects\ExercGen\src\main\kotlin\Main.kt
+C:\Users\ferna\IdeaProjects\ExercGen\src\main\kotlin\Quest5.kt
+C:\Users\ferna\IdeaProjects\ExercGen\src\main\kotlin\Quest6.kt
